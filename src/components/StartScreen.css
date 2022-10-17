@@ -1,0 +1,36 @@
+.start {
+    border: 2px solid #607d8b;
+    background-color: #c8eeff;
+    display: inline-block;
+    padding: 30px;
+    padding-top: 0px;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+
+.start button {
+    background-color: #03a9f4;
+    color: #091764;
+    padding: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 10px;
+    border: 2px solid #091764;
+    cursor: pointer;
+}
+
+.start button:hover {
+    background-color: #091764;
+    color: #03a9f4;
+}
+
+.footer {
+    margin-top: 10px;
+}
+
+.footer svg {
+    font-size: 22px;
+    vertical-align: text-top;
+    margin-left: 5px;
+    color: #091764;
+}

@@ -1,0 +1,46 @@
+.game .points {
+    font-size: 20px;
+    background-color: #c8eeff;
+    display: inline-block;
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid #607d8b;
+}
+
+.game .letterContainer input {
+    font-size: 25px;
+    padding: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 30px;
+    text-align: center;
+    font-weight: bold;
+    margin-right: 5px;
+    border-radius: 10px;
+    border: 2px solid #607d8b;
+}
+
+.game .letterContainer button {
+    background-color: #03a9f4;
+    color: #091764;
+    padding: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 10px;
+    border: 1px solid #091764;
+    cursor: pointer;
+    vertical-align: bottom;
+}
+
+.game .letterContainer button:hover {
+    background-color: #091764;
+    color: #03a9f4;
+}
+
+.game .wordContainer .letter {
+    background-color: #fff;
+    display: inline-block;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #888;
+}
